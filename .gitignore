@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Rendered media
+media/
+
 # C extensions
 *.so
 
